@@ -1,0 +1,5 @@
+../Core/Src/BMP280.c:17:9:I2C_Read_Register	32	static
+../Core/Src/BMP280.c:31:6:I2C_Write_Register	32	static
+../Core/Src/BMP280.c:41:6:BMP280_get_calib_values	48	static
+../Core/Src/BMP280.c:62:6:BMP280_init	8	static
+../Core/Src/BMP280.c:70:6:BMP280_calc_values	104	static

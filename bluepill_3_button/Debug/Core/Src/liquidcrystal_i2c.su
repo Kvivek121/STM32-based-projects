@@ -1,0 +1,15 @@
+../Core/Src/liquidcrystal_i2c.c:49:6:HD44780_Init	16	static
+../Core/Src/liquidcrystal_i2c.c:104:6:HD44780_Clear	8	static
+../Core/Src/liquidcrystal_i2c.c:110:6:HD44780_Home	8	static
+../Core/Src/liquidcrystal_i2c.c:116:6:HD44780_SetCursor	40	static
+../Core/Src/liquidcrystal_i2c.c:128:6:HD44780_Display	8	static
+../Core/Src/liquidcrystal_i2c.c:134:6:HD44780_CreateSpecialChar	24	static
+../Core/Src/liquidcrystal_i2c.c:144:6:HD44780_PrintStr	16	static
+../Core/Src/liquidcrystal_i2c.c:150:13:SendCommand	16	static
+../Core/Src/liquidcrystal_i2c.c:155:13:SendChar	16	static
+../Core/Src/liquidcrystal_i2c.c:160:13:Send	24	static
+../Core/Src/liquidcrystal_i2c.c:168:13:Write4Bits	16	static
+../Core/Src/liquidcrystal_i2c.c:174:13:ExpanderWrite	32	static
+../Core/Src/liquidcrystal_i2c.c:180:13:PulseEnable	16	static
+../Core/Src/liquidcrystal_i2c.c:189:13:DelayInit	4	static,ignoring_inline_asm
+../Core/Src/liquidcrystal_i2c.c:205:13:DelayUS	32	static
